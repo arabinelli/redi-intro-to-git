@@ -10,6 +10,7 @@
 - Installing and editing the project - in breakout rooms (20 min)
 - Extra features + Github PRs walkthrough(20 min)
 
+
 -------
 ## What is Git? 
 Git is an open source, distributed *source version control (SVC)* tool. Let's break this down:
