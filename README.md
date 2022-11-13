@@ -99,7 +99,8 @@ Merge      | Bringing your edits from the `_copy` folder back to the main folder
 -------
 
 ## Breakout rooms (20 mins) <-- Homework!
-- Clone this repository
+- **Fork** this repository
+- Clone your forked repository
 - Create a branch named `{your-name}/git-tutorial`
 - Replace YOUR NAME in the following block:
 ```python
