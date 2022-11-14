@@ -73,7 +73,8 @@ Merge      | Bringing your edits from the `_copy` folder back to the main folder
 -------
 ## Workflow with Branching
 
-2. Before you start, you clone a repository - e.g. `git clone https://github.com/arabinelli/redi-intro-to-git`
+0. Before you start, make sure to Fork this repository!
+1. Before you start, you clone your fork of the repository - e.g. `git clone https://github.com/<your-username>/redi-intro-to-git`
 2. Always make sure you have the latest version from the Remote! You do so by running `git pull origin main` >> `origin` is the name of the Remote (Github.com in our case), `main` is the branch I want to pull
 3. You want to fix the number of the first bullet point here. You're well mannered, so you create a new branch to avoid interference with your colleagues: `git checkout -b fix/bullet-points-number` >> `checkout` tells git to move to another branch, the `-b` flag tells git to create the new branch, `fix/bullet-points-number` is the name you decided to give to your branch.
 4. You edit the bullet point and save the changes. 
