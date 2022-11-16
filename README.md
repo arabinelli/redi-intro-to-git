@@ -104,7 +104,7 @@ Merge      | Bringing your edits from the `_copy` folder back to the main folder
 - Create a branch named `{your-name}/git-tutorial`
 - Replace YOUR NAME in the following block:
 ```python
-print("Hello, YOUR NAME!")
+print("Hello, Viktoria Chaichenko!")
 ```
 - Commit and push your branch to origin (if you have a Github account). DO NOT MERGE
 - [BONUS]: Open a Pull Request towards the branch `main` of this repository
