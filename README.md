@@ -125,7 +125,7 @@ A gitignore is a file specifying what files/folders/paths should not be tracked 
 _Note: there is also a global gitignore available, where you can add e.g. the .DS_Store file_
 
 ### GitHub Actions
-GitHub Actions (GA) helps automating some tasks, for instance automatic checks, deployments, weddings, etc. 
+GitHub Actions (GA) helps automating some tasks, for instance automatic checks, deployments, etc. 
 It's a really cool tool!
 
 ### Pull Requests
