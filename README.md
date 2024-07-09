@@ -122,6 +122,8 @@ A gitignore is a file specifying what files/folders/paths should not be tracked 
 - Compiled files or other not-useful files/directories (e.g. virtual environments)
 - Secrets (e.g. APIs keys - they should be kept in a secret manager!) 
 
+_Note: there is also a global gitignore available, where you can add e.g. the .DS_Store file_
+
 ### GitHub Actions
 GitHub Actions (GA) helps automating some tasks, for instance automatic checks, deployments, etc. 
 It's a really cool tool!
