@@ -123,7 +123,7 @@ A gitignore is a file specifying what files/folders/paths should not be tracked 
 - Secrets (e.g. APIs keys - they should be kept in a secret manager!) 
 
 ### GitHub Actions
-GitHub Actions (GA) helps automating some tasks, for instance automatic checks, deployments, weddings, etc. 
+GitHub Actions (GA) helps automating some tasks, for instance automatic checks, deployments, etc. 
 It's a really cool tool!
 
 ### Pull Requests
