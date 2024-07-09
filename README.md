@@ -122,6 +122,10 @@ A gitignore is a file specifying what files/folders/paths should not be tracked 
 - Compiled files or other not-useful files/directories (e.g. virtual environments)
 - Secrets (e.g. APIs keys - they should be kept in a secret manager!) 
 
+### GitHub Actions
+GitHub Actions (GA) helps automating some tasks, for instance automatic checks, deployments, etc. 
+It's a really cool tool!
+
 ### Pull Requests
 Pull requests (or PRs) are a concept from GitHub which allows to have a 4-eye principle: the merge with the `main` branch is turned into a discussion amongst developers. Normally, approval from another developer is required to merge.
 
